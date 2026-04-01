@@ -71,18 +71,6 @@ I'm a **creative developer & UX thinker** passionate about crafting meaningful d
 - 🧬 Advanced UX Research
 - ⚡ System Design & Scalable Apps
 
----
-
-## 🌐 Let's Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/danielkatoro">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"/>
-  </a>
-  <a href="mailto:danielkatoro@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?logo=gmail"/>
-  </a>
-</p>
 
 ---
 
