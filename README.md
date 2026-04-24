@@ -6,8 +6,6 @@
   🌍 Building impactful digital experiences..
 </p>
 
----
-
 ## ⚡ About Me
 
 I'm a **creative developer & UX thinker** passionate about crafting meaningful digital products.
@@ -16,8 +14,6 @@ I'm a **creative developer & UX thinker** passionate about crafting meaningful d
 - Design thinking 
 - Clean code 
 - Real user needs 
-
----
 
 ## 🧰 Tech Arsenal
 
@@ -42,8 +38,6 @@ I'm a **creative developer & UX thinker** passionate about crafting meaningful d
   <img src="https://github-readme-stats.vercel.app/api?username=danielkatoro&show_icons=true&theme=radical" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielkatoro&theme=radical" height="150"/>
 </p>
-
----
 
 ## 🧠 Currently Learning
 
