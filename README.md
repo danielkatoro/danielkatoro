@@ -13,11 +13,9 @@
 I'm a **creative developer & UX thinker** passionate about crafting meaningful digital products.
 
 💡 I combine:
-- Design thinking 🧠
-- Clean code 💻
-- Real user needs ❤️
-
-🎯 My mission: **build tech solutions that impact Africa and beyond**
+- Design thinking 
+- Clean code 
+- Real user needs 
 
 ---
 
@@ -71,11 +69,3 @@ I'm a **creative developer & UX thinker** passionate about crafting meaningful d
 - 🧬 Advanced UX Research
 - ⚡ System Design & Scalable Apps
 
-
----
-
-
-## 🔥 Fun Fact
-
-I don’t just design interfaces…  
-I design **experiences that people remember** 🚀
