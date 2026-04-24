@@ -1,9 +1,9 @@
 # 👋 Hey, I'm Daniel KATORO
 
-<p align="center">
-  🎨 UX Designer • 💻 Front-End Developer • 🚀 Tech Entrepreneur  
+<p>
+  UX Designer | Front-End Developer | Tech Entrepreneur  
   <br/>
-  🌍 Building impactful digital experiences from DR Congo
+  🌍 Building impactful digital experiences..
 </p>
 
 ---
@@ -21,13 +21,11 @@ I'm a **creative developer & UX thinker** passionate about crafting meaningful d
 
 ## 🧰 Tech Arsenal
 
-### 🎨 Design
 ![Figma](https://img.shields.io/badge/Figma-black?logo=figma)
 ![Adobe XD](https://img.shields.io/badge/AdobeXD-purple?logo=adobexd)
 ![Photoshop](https://img.shields.io/badge/Photoshop-blue?logo=adobephotoshop)
 ![Illustrator](https://img.shields.io/badge/Illustrator-orange?logo=adobeillustrator)
 
-### 💻 Development
 ![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
@@ -37,22 +35,6 @@ I'm a **creative developer & UX thinker** passionate about crafting meaningful d
 ![Nuxt](https://img.shields.io/badge/Nuxt-black?logo=nuxt.js)
 ![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel)
 ![Flutter](https://img.shields.io/badge/Flutter-blue?logo=flutter)
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 Project Management Dashboard
-📊 UX Case Study + UI Design + Front-End  
-👉 Focus on usability, performance & clean UI
-
-### 🔹 Smart Notification App
-📱 Mobile app with custom notification system
-
-### 🔹 AI UX Assistant (Concept)
-🤖 Generative AI to assist users with smart recommendations
-
----
 
 ## 📊 GitHub Stats
 
