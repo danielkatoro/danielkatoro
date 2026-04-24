@@ -74,11 +74,6 @@ I'm a **creative developer & UX thinker** passionate about crafting meaningful d
 
 ---
 
-## ⚡ Philosophy
-
-> “Design is not just what it looks like — it's how it works.”  
-
----
 
 ## 🔥 Fun Fact
 
