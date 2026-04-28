@@ -6,8 +6,6 @@
   🌍 Building impactful digital experiences..
 </p>
 
-## ⚡ About Me
-
 I'm a **creative developer & UX thinker** passionate about crafting meaningful digital products.
 
 💡 I combine:
